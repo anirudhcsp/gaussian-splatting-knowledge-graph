@@ -374,4 +374,3 @@ Generative AI & Agentic AI Engineer
 
 ---
 
-**Built with ❤️ for advancing AI research tools**
