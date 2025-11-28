@@ -239,8 +239,8 @@ gaussian-splatting-kg/
 ## 💬 Contact
 
 **Questions or Demo Request:**  
-Email: [Your Email]  
-GitHub: [Your GitHub]
+Email: anirudhcsp@gmail.com  
+GitHub: https://github.com/anirudhcsp
 
 ---
 
