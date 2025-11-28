@@ -1,0 +1,42 @@
+# Environment variables (SENSITIVE!)
+.env
+.env.local
+.env.production
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test files
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# PDF cache
+*.pdf
+/tmp/
+
+# Database
+*.db
+*.sqlite
