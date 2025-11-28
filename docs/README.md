@@ -368,7 +368,7 @@ MIT License - see [LICENSE](LICENSE) file
 Generative AI & Agentic AI Engineer  
 11+ years experience | 3+ years in production AI systems
 
-- GitHub: [@anirudhcsp](https://github.com/anirudhcsp)
+- GitHub: [@anirudhcsp] https://github.com/anirudhcsp
 - LinkedIn: https://www.linkedin.com/in/ani-csp/
 - Email: anirudhcsp@gmail.com
 
